@@ -1,0 +1,9 @@
+#
+# -- ProxyChains Configuration and Run --
+#
+
+# Make sure ProxyChains is installed
+
+locate proxychains
+proxychains ping 8.8.8.8
+
