@@ -3,7 +3,12 @@
 #
 
 # EXAMPLE: ProxyChains coniguration % input 
-# Make sure ProxyChains is installed
+# Make sure ProxyChains and Tor are installed
+
+----------------------------
+
+$ apt-get install -y tor proxychains
+$ systemctl enable tor
 
 ----------------------------
 
